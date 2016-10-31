@@ -1,4 +1,4 @@
-package com.example.a1133611.labactivity7;
+package biz.j0n.lab7;
 
 import android.content.Context;
 import android.content.*;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.a1133611.labactivity7">
+    package="biz.j0n.lab7">
 
     <application
         android:allowBackup="true"
